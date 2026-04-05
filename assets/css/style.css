@@ -91,9 +91,6 @@ p{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-	height: 80vh; /* Sets the hero section to 80% of the viewport height */
-	display: flex;
-	align-items: center; /* Centers your content vertically */
 }
 .main_header {    
     padding: 42px 292px 0;
